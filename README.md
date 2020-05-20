@@ -1,1 +1,1 @@
-# arrow_function-in-js
+# arrow_function-in-java-Script
